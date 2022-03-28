@@ -49,21 +49,21 @@ Siga as instruções a seguir para rodar o programa:
 
 2) Clonar o repositório.
 
-```sh 
-git clone https://github.com/projeto-de-algoritmos/D-C_EncontroAmigos.git
-```
+  ```sh 
+  git clone https://github.com/projeto-de-algoritmos/D-C_EncontroAmigos.git
+  ```
 
 3) Acessar a pasta da aplicação 
 
-```sh 
-cd D-C_EncontroAmigos/
-```
+  ```sh 
+  cd D-C_EncontroAmigos/
+  ```
 
 4) Analisar as soluções da seguinte pasta: 
 
-```sh 
-main.ipynb
-```
+  ```sh 
+  main.ipynb
+  ```
 
 5) Você agora poderá testar e verificar as soluções.
 
