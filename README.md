@@ -1,44 +1,79 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Encontro Amigos 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 4<br>
+**Conteúdo da Disciplina**: D&C<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0102656  |  Ítalo Vinícius |
+| 18/0145088  |  Gabriel Bonifácio |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do nosso projeto é, dada uma certa quantidade de amigos numa festa, fazer com que eles se encontrem em um único ponto em comum. A ideia é utilizar a lógica de juntar os pares mais próximos, até que se tornem apenas um no final.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<div align="center">
+
+  <img src="./images/img1.png" height=300px>
+
+  [Figura 1: Imagem do programa](./images/img1.png)
+
+</div>
+  
+<div align="center">
+
+  <img src="./images/img2.png" height=300px>
+  
+  [Figura 2: Imagem do programa](./images/img2.png)
+  
+ </div>
+  
+<div align="center">
+
+  <img src="./images/img3.png" height=300px>
+  
+  [Figura 3: Imagem do programa](./images/img3.png)
+  
+</div>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+**Linguagem**: Python<br>
+**Framework**: ------<br>
+
+Siga as instruções a seguir para rodar o programa:
+
+1) Fazer a instalação do Python, em uma versão superior a 3.6
+
+2) Clonar o repositório.
+
+```sh 
+git clone https://github.com/projeto-de-algoritmos/D-C_EncontroAmigos.git
+```
+
+3) Acessar a pasta da aplicação 
+
+```sh 
+cd D-C_EncontroAmigos/
+```
+
+4) Analisar as soluções da seguinte pasta: 
+
+```sh 
+main.ipynb
+```
+
+5) Você agora poderá testar e verificar as soluções.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+Após avaliar, você poderá fazer suas considerações sobre o projeto.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+Os nomes dos "amigos" foram retirados da biblioteca ('names')[https://pypi.org/project/names/]. 
 
 
 
