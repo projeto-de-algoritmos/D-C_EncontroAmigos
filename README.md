@@ -12,6 +12,10 @@
 ## Sobre 
 O objetivo do nosso projeto é, dada uma certa quantidade de amigos numa festa, fazer com que eles se encontrem em um único ponto em comum. A ideia é utilizar a lógica de juntar os pares mais próximos, até que se tornem apenas um no final.
 
+## Apresentação
+
+Para acessar a apresentação, basta acessar este link: <a href="https://www.youtube.com/watch?v=-l7Or-ivfDA" target="_blank">https://www.youtube.com/watch?v=-l7Or-ivfDA</a>.
+
 ## Screenshots
 
 <div align="center">
